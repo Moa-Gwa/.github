@@ -1,6 +1,6 @@
 ## 모아과
 
-![모아과](https://raw.githubusercontent.com/Moa-Gwa/.github/main/profile/assets/banner.png)
+![모아과](https://raw.githubusercontent.com/Moa-Gwa/.github/main/profile/assets/hero.png)
 
 <br />
 
